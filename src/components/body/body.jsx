@@ -10,7 +10,7 @@ const Body = () => {
         <div className="main-controles">
             <div className="search-controls">
                 <SearchBox />
-                <Addbut/>
+                <Addbut className="lol"/>
             </div>
             
             <Table/>

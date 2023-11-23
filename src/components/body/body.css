@@ -11,9 +11,30 @@
 }
 
 
-@media only screen and (max-width: 315px) {
+@media only screen and (max-width: 400px) {
     .controles{
         display: block;
     }
+    .search-controls {
+        display:contents ;
+        
+        
+      }
+      .main-controles{
+        padding-left:45px;
+        padding-right: 45px;
+    }
+    .lol{
+        margin-top: 100px;
+    }
+
+}
+@media only screen and (max-width: 800px) {
+    
+      .main-controles{
+        padding-left:45px;
+        padding-right: 45px;
+    }
+    
 
 }

@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Modal } from 'antd';
 import './add.css'
-import { useEffect } from "react";
 import { useAppStore } from "../../store";
 
 const Addbut = () => {
