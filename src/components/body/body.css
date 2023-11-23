@@ -1,0 +1,19 @@
+.main-controles{
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 20px;
+}
+
+.search-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+@media only screen and (max-width: 315px) {
+    .controles{
+        display: block;
+    }
+
+}
